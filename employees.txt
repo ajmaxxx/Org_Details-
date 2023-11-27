@@ -1,0 +1,3 @@
+emply name:= sandeep singh
+id:=23242342
+age:=34
